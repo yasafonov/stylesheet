@@ -1,4 +1,4 @@
-# stylesheet
+# styles.css
 header {
     background-color: navy;
     padding: 10px;
